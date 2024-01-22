@@ -1,4 +1,4 @@
-package com.example.todo_mvvm_compose.data
+package com.example.todo_mvvm_compose.data.model
 
 import androidx.compose.ui.graphics.Color
 import com.example.todo_mvvm_compose.ui.theme.HighPriorityColor
