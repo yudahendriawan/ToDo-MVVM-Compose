@@ -5,8 +5,6 @@ import androidx.navigation.NavType
 import androidx.navigation.compose.composable
 import androidx.navigation.navArgument
 import com.example.todo_mvvm_compose.util.Action
-import com.example.todo_mvvm_compose.util.Constants.LIST_ARGUMENT_KEY
-import com.example.todo_mvvm_compose.util.Constants.LIST_SCREEN
 import com.example.todo_mvvm_compose.util.Constants.TASK_ARGUMENT_KEY
 import com.example.todo_mvvm_compose.util.Constants.TASK_SCREEN
 
